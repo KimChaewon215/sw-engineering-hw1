@@ -1,0 +1,20 @@
+GitHub: https://github.com/KimChaewon215/sw-engineering-hw1.git
+
+2643209 - 이세진, Tue May 12 12:14:33 2026 +0900 : add use case diagram
+52c9c2e - yuzomi2, Tue May 12 11:46:33 2026 +0900 : use case description 최종본
+d9590a0 - 김채원, Tue May 12 11:21:47 2026 +0900 : user_ui 최종본
+66989d4 - 김채원, Tue May 12 11:20:37 2026 +0900 : user_ui 수합하여 최종본 업로드
+b1d1b6e - 김채원, Tue May 12 11:19:05 2026 +0900 : Delete requirement_list(9,10,11).pdf
+815ee23 - 김채원, Tue May 12 11:16:27 2026 +0900 : usecase 9, 10, 11에 대한 user_ui 화면 업로드
+8ff9c47 - yuzomi2, Tue May 12 00:17:31 2026 +0900 : 최종 use case description
+8fac7e1 - Hosonge, Mon May 11 23:07:15 2026 +0900 : Add files via upload
+883c9d2 - Hosonge, Mon May 11 23:03:01 2026 +0900 : Add files via upload
+2a3ddd2 - 이세진, Mon May 11 21:04:38 2026 +0900 : add use case diagram
+d5e791d - yuzomi2, Mon May 11 12:18:20 2026 +0900 : requirement list(5,6,12)
+937e25f - yuzomi2, Mon May 11 12:16:56 2026 +0900 : usecase_description(5,6,12)
+b885ead - yuzomi2, Mon May 11 12:15:13 2026 +0900 : Add files via upload
+d9388a7 - 김채원, Mon May 11 11:44:03 2026 +0900 : Delete requirement_list(9,10,11).pdf from user_ui branch
+40bb726 - 김채원, Mon May 11 11:41:47 2026 +0900 : Delete requirement_list(9,10,11).pdf from usecase_diagram branch
+236133e - KimChaewon215, Mon May 11 11:40:57 2026 +0900 : usecase(9,10,11) diagram
+e5145cb - KimChaewon215, Mon May 11 11:38:25 2026 +0900 : usecase(9,10,11) description
+61fef41 - KimChaewon215, Mon May 11 10:40:34 2026 +0900 : usecase 9,10,11번 requirement list
